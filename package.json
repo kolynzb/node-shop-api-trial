@@ -1,0 +1,13 @@
+{
+  "name": "node-trial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "kolyzb",
+  "license": "ISC",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
