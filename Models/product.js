@@ -1,5 +1,14 @@
 const data = [
   {
+    id: 0,
+    name: "Native South African Palles",
+    price: "200,000",
+    description: "lorem ipsum dolor sit amet, consectetur adip",
+    colors: ["pink", "black", "grey", "green"],
+    sizes: ["XS", "S", "M", "XL", "2XL", "3XL"],
+    categories: ["men", "All"],
+  },
+  {
     id: 1,
     name: "Native Signature Long Shorts",
     price: "20,000",

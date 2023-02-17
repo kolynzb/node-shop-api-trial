@@ -5,7 +5,8 @@
   "author": "kolyzb",
   "license": "ISC",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server2.js",
+    "dev": "nodemon server2.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
