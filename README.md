@@ -25,3 +25,14 @@ yarn start
 #or
 npm start
 ```
+
+## API Docs
+
+- To get home Page
+  `localhost:8000/users`
+- To get users
+  `localhost:8000/users`
+- To get product
+  `localhost:8000/products`
+- To get product by id
+  `localhost:8000/products?id=0`
