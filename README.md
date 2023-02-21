@@ -37,4 +37,4 @@ npm start
 - To get product by id
   `localhost:8000/products?id=0`
 
-- [Nest Tutorial](https://github.com/kolynzb/KCF-prima-node-lesson-api)
+- [Next Tutorial](https://github.com/kolynzb/KCF-prima-node-lesson-api)
